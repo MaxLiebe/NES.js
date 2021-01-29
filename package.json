@@ -1,0 +1,19 @@
+{
+  "name": "nes.js",
+  "version": "1.0.0",
+  "description": "NES emulator in Node.js!",
+  "main": "nes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxLiebe/NES.js.git"
+  },
+  "author": "Max Liebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxLiebe/NES.js/issues"
+  },
+  "homepage": "https://github.com/MaxLiebe/NES.js#readme"
+}
